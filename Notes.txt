@@ -1,0 +1,4 @@
+scm
+svn, git, cvs, hg,
+Continous Integration / Continous Deployment
+PLASTIC SCM
