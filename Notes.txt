@@ -4,5 +4,17 @@ Continous Integration / Continous Deployment
 PLASTIC SCM
 
 Rx Reacrive programing
-
 Tasks
+----------------------------------------------------
+TO LEARN:
+monads c#
+Command–query separation
+LinqToGemObject
+ECS - Entity Component System
+
+TO REFRESH:
+dynamic & var
+Linq
+Heap&Stack
+
+Table of struct will take continous space in CPU memory making it faster to operate on.
