@@ -17,7 +17,7 @@ public class Spawner : MonoBehaviour
     void Loop()
     {
         Spawn();
-        Scheduler.Instance.Schedule(SpawnRate, () => Loop());
+        //CoroutineScheduler.Instance.Schedule(SpawnRate, () => Loop());
     }
 
     void Spawn()

@@ -20,7 +20,7 @@ public class Character : MonoBehaviour
     {
         if (pickup.isInvincible)
         {
-            Scheduler.Instance.Schedule(pickup.timer, () => pickup.isInvincible = false);
+            //CoroutineScheduler.Instance.Schedule(pickup.timer, () => pickup.isInvincible = false);
         }
     }
 

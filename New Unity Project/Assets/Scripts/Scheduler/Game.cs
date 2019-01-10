@@ -14,7 +14,7 @@ namespace Assets.Scripts
 
         void Start()
         {
-            Scheduler.Instance.Schedule(delay, action);
+            //CoroutineScheduler.Instance.Schedule(delay, action);
         }
     }
 }
